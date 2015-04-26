@@ -1,5 +1,5 @@
 #Prototipos buenos, bonitos y baratos
-## Presentacion para DrupalCamp Costa Rica 2014
+**Presentacion para DrupalCamp Costa Rica 2014**
 
 ###Agenda
 1. Que son Style Tiles?
