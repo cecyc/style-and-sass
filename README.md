@@ -1,12 +1,12 @@
-#Prototipos buenos, bonitos y baratos
+# Prototipos buenos, bonitos y baratos
 **Presentacion para DrupalCamp Costa Rica 2014**
 
-###Agenda
+### Agenda
 1. Que son Style Tiles?
 2. Que es Sass?
 3. Como se pueden combinar Sass con Style Tiles para crear prototipos de diseño
 
-###Ligas
+### Ligas
 
 1. [Templete de Sass en CodePen](http://cecy.co/1ppr73X)
 2. [Otro templete alternativo de Sass en CodePen](http://cecy.co/code-pen)
